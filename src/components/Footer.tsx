@@ -105,8 +105,8 @@ export default function Footer({ onNavigate }: FooterProps) {
               </li>
               <li className="flex gap-3 items-center">
                 <Mail size={16} className="text-cyan-400 flex-shrink-0" />
-                <a href="mailto:info@trizentsolutions.com" className="text-slate-400 hover:text-cyan-400 text-sm transition-colors duration-200">
-                  info@trizentsolutions.com
+                <a href="mailto:trizentsolutions@gmail.com" className="text-slate-400 hover:text-cyan-400 text-sm transition-colors duration-200">
+                  trizentsolutions@gmail.com
                 </a>
               </li>
             </ul>

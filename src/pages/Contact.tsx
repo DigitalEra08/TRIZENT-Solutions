@@ -28,8 +28,8 @@ export default function Contact() {
     {
       icon: Mail,
       label: 'Email',
-      value: 'info@trizentsolutions.com',
-      link: 'mailto:info@trizentsolutions.com',
+      value: 'trizentsolutions@gmail.com',
+      link: 'mailto:trizentsolutions@gmail.com',
     },
     {
       icon: Clock,
